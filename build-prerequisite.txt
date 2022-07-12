@@ -1,0 +1,7 @@
+To build a C++ based code, you need to make use of g++ utility.
+
+Here is a sample command that builds a code from a file named demo.cpp.
+
+g++ demo.cpp -o democode
+
+The resulting output application binary is named democode and is defined with -o
