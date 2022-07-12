@@ -2,4 +2,4 @@
 
 Install jenkins and create a GitHub repo
 
-please follow the steps that shown in the pictures
+please follow the steps inside the folder named "shown Steps for CI"
